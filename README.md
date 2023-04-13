@@ -1,4 +1,4 @@
-# Remote-Shepherd-Server
+# Remote-Shepherd-Server V1
 update collar location -> supabase (primesc de la collar si schimb informatii) 
 update cow location -> supabase (schimb locatia si pentru vaca atunci cand schimb si la collar)
 
